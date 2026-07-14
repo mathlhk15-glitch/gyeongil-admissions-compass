@@ -1,6 +1,6 @@
 {
   "rawRows": 4249,
-  "groups": 74,
+  "groups": 2876,
   "years": [
     2024,
     2025,
@@ -23,9 +23,9 @@
     "기타": 57
   },
   "privacy": {
-    "minGroup": 5,
-    "minOutcome": 5,
-    "masked_success_groups": 64,
-    "zero_success_groups": 17
+    "minGroup": 1,
+    "minOutcome": 1,
+    "masked_success_groups": 1800,
+    "zero_success_groups": 1800
   }
 }
